@@ -4,4 +4,7 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
-        swapping.c)
+
+
+        "swapping without third varibles.c"
+)

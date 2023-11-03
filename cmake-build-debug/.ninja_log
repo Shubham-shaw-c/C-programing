@@ -1,9 +1,16 @@
 # ninja log v5
-0	1026	7206265218819123	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-1029	1466	7206265223128620	C_programing.exe	3bdeb88de26131d6
-4	990	7206267954195327	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-991	1396	7206267958211413	C_programing.exe	3bdeb88de26131d6
-4	1034	7206268380225802	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-1035	1458	7206268384408506	C_programing.exe	3bdeb88de26131d6
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-1019	1432	7206268872329471	C_programing.exe	3bdeb88de26131d6
+991	1401	7206441213146488	C_programing.exe	73d71bf00f30ba0a
+3	657	7207229213623174	build.ninja	ca4baf2926535aee
+3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
+4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
+5	990	7206441209089132	CMakeFiles/C_programing.dir/recursion_area_of_a_circle.c.obj	e1dd1da08401b47c
+5	667	7207229213623174	build.ninja	ca4baf2926535aee
+1	981	7207229224253246	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
+982	1387	7207229228244425	C_programing.exe	b49c08dbcd541238
+4	1008	7207229475992364	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
+1009	1388	7207229479711656	C_programing.exe	b49c08dbcd541238
+8	1005	7207229789789325	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
+1006	1386	7207229793534857	C_programing.exe	b49c08dbcd541238
+4	977	7207230018487906	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
+979	1396	7207230022581040	C_programing.exe	b49c08dbcd541238

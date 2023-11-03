@@ -5,9 +5,9 @@ int main(){
     scanf("%d",&a);
     printf("enter a number");
     scanf("%d",&b);
-    int c=a;
-    a=b;
-    b=c;
+    a=a+b;
+    b=a-b;
+    a=a-b;
     printf("a is%d\n",a);
     printf("b is%d\n",b);
 
