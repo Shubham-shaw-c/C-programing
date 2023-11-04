@@ -5,5 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Straigth line or not.c"
+
+
+        "to print the memory address.c"
 )
