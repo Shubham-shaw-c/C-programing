@@ -7,5 +7,5 @@ add_executable(C_programing
 
 
 
-        "to print the memory address.c"
+       "Taking details from user and display.c"
 )
