@@ -11,5 +11,6 @@ add_executable(C_programing
 
 
 
-        "solve algebraic identity.c"
+
+        "Find area of circle .c"
 )
