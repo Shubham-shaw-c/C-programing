@@ -9,5 +9,7 @@ add_executable(C_programing
 
 
 
-        "Right angled triangle or not.c"
+
+
+        "solve algebraic identity.c"
 )

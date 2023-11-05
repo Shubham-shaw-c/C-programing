@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 int main() {
     int side1, side2, side3;
     printf("ente the side one = ");
