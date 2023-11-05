@@ -8,5 +8,6 @@ add_executable(C_programing
 
 
 
-        "Convert Centigrade to Fahrenheit.c"
+
+        "Right angled triangle or not.c"
 )
