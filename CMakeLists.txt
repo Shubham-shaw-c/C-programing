@@ -7,5 +7,6 @@ add_executable(C_programing
 
 
 
-       "Taking details from user and display.c"
+
+        "Convert Centigrade to Fahrenheit.c"
 )
