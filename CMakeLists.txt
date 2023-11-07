@@ -5,12 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-
-
-
-
-
-
-        "Find area of circle .c"
+        "Pyramid pattern without any loop.c"
 )

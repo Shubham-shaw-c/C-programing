@@ -1,7 +1,7 @@
 # ninja log v5
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-4	403	7209310744605758	C_programing.exe	28c47eb9a0ca2642
-2	672	7209314169414578	build.ninja	ca4baf2926535aee
+444	622	7209897348806303	C_programing.exe	abcd9949022aadbd
+2	656	7210686795840604	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
@@ -14,12 +14,10 @@
 4	985	7208697425438101	CMakeFiles/C_programing.dir/Right_angled_triangle_or_not.c.obj	e28a240849a43311
 1	979	7208694552056241	CMakeFiles/C_programing.dir/right.c.obj	a2dcae1cc692ee69
 7	1044	7209310613351969	CMakeFiles/C_programing.dir/solve_algebraic_identity.c.obj	44fdd31da59e4f80
-2	638	7209314169414578	build.ninja	ca4baf2926535aee
-1	1004	7209314180308185	CMakeFiles/C_programing.dir/Find_area_of_circle_.c.obj	f894e226467668c4
-1005	1392	7209314184107023	C_programing.exe	c4dae59bcc9dacea
-4	1006	7209314423982881	CMakeFiles/C_programing.dir/Find_area_of_circle_.c.obj	f894e226467668c4
-1007	1407	7209314427968043	C_programing.exe	c4dae59bcc9dacea
-4	973	7209314819737151	CMakeFiles/C_programing.dir/Find_area_of_circle_.c.obj	f894e226467668c4
-974	1369	7209314823616936	C_programing.exe	c4dae59bcc9dacea
 4	1010	7209315035547448	CMakeFiles/C_programing.dir/Find_area_of_circle_.c.obj	f894e226467668c4
-1011	1407	7209315039440421	C_programing.exe	c4dae59bcc9dacea
+2	443	7209897347045971	CMakeFiles/C_programing.dir/testing.c.obj	4dcce6ebaee36e9f
+3	662	7210686795840604	build.ninja	ca4baf2926535aee
+1	1036	7210686807108190	CMakeFiles/C_programing.dir/Pyramid_pattern_without_any_loop.c.obj	42cbd37ecbb04ac3
+1037	1429	7210686810974676	C_programing.exe	b0bd0c886a9fb291
+4	986	7210687050138342	CMakeFiles/C_programing.dir/Pyramid_pattern_without_any_loop.c.obj	42cbd37ecbb04ac3
+987	1428	7210687054496537	C_programing.exe	b0bd0c886a9fb291
