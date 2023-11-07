@@ -5,5 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Pyramid pattern without any loop.c"
+        "Storage converter.c"
 )
