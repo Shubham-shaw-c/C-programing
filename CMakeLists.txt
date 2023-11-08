@@ -4,6 +4,5 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
-
-        "Storage converter.c"
+        "Currency converter.c"
 )
