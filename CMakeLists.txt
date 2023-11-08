@@ -4,5 +4,6 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
-        "Currency converter.c"
+
+        "Heron's formula .c"
 )
