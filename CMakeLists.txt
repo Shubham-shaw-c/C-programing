@@ -5,5 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Heron's formula .c"
+
+        "Distance between two points.c"
 )
