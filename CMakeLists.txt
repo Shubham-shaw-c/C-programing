@@ -6,5 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "Distance between two points.c"
+
+        "Find the compound intrerest .c"
 )
