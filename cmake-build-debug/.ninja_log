@@ -1,18 +1,18 @@
 # ninja log v5
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-1004	1418	7212432637137420	C_programing.exe	29f46eef2fddfd5f
+995	1384	7213327077066691	C_programing.exe	8ab78259bade5da9
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
-2	663	7212437179060691	build.ninja	ca4baf2926535aee
+3	676	7213327982023118	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
-4	977	7207230018487906	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
-5	990	7206441209089132	CMakeFiles/C_programing.dir/recursion_area_of_a_circle.c.obj	e1dd1da08401b47c
+4	977	7207230018487906	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
+1	440	7212461879003099	CMakeFiles/C_programing.dir/recursion_area_of_a_circle.c.obj	e1dd1da08401b47c
 3	973	7207241446479103	CMakeFiles/C_programing.dir/straight_line_or_not.c.obj	64ab5f17f2da4463
 3	988	7207245214035186	CMakeFiles/C_programing.dir/Straigth_line_or_not.c.obj	59b12a5af757e560
 4	993	7208065640244578	CMakeFiles/C_programing.dir/Taking_details_from_user_and_display.c.obj	b0bde32945ca334d
-4	986	7210687050138342	CMakeFiles/C_programing.dir/Pyramid_pattern_without_any_loop.c.obj	42cbd37ecbb04ac3
 4	990	7208058678402180	CMakeFiles/C_programing.dir/to_print_the_memory_address.c.obj	6c606db603f1c783
+4	986	7210687050138342	CMakeFiles/C_programing.dir/Pyramid_pattern_without_any_loop.c.obj	42cbd37ecbb04ac3
 4	985	7208697425438101	CMakeFiles/C_programing.dir/Right_angled_triangle_or_not.c.obj	e28a240849a43311
 1	979	7208694552056241	CMakeFiles/C_programing.dir/right.c.obj	a2dcae1cc692ee69
 7	1044	7209310613351969	CMakeFiles/C_programing.dir/solve_algebraic_identity.c.obj	44fdd31da59e4f80
@@ -22,5 +22,8 @@
 1	998	7211458686196295	CMakeFiles/C_programing.dir/Currency_converter.c.obj	36a5833be198dd9
 5	1046	7211463425655455	CMakeFiles/C_programing.dir/Heron's_formula_.c.obj	b00365d078500cb4
 5	1040	7212437094267221	CMakeFiles/C_programing.dir/Find_the_compound_intrerest_.c.obj	65672b50a3c4637f
-2	681	7212437179060691	build.ninja	ca4baf2926535aee
-4	416	7212437183920965	C_programing.exe	b35589ca0121ab2c
+4	994	7213327073224882	CMakeFiles/C_programing.dir/To_print_data_size.c.obj	58856450f85c9a46
+7	1021	7213328906114660	CMakeFiles/C_programing.dir/To_print_data_size.c.obj	58856450f85c9a46
+1022	1469	7213328910505215	C_programing.exe	8ab78259bade5da9
+4	1008	7213329209799678	CMakeFiles/C_programing.dir/To_print_data_size.c.obj	58856450f85c9a46
+1010	1393	7213329213585660	C_programing.exe	8ab78259bade5da9
