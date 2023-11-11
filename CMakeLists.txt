@@ -7,5 +7,5 @@ add_executable(C_programing
 
 
 
-        "To print ASCII value of a character.c"
+        "Find the simple intrest .c"
 )
