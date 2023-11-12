@@ -6,5 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "Check a number is Odd or Even.c"
+        " To produce a beep sound.c"
 )
