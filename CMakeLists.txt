@@ -6,6 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-
-        "Find the simple intrest .c"
+        "Check a number is Odd or Even.c"
 )
