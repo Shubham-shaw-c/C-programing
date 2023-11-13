@@ -5,6 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-        " To produce a beep sound.c"
+        "Sum of two numbers with beep sound.c"
 )
