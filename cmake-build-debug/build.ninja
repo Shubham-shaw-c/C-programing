@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/SHUBHAM/Documents/GitHub/C-programing/cmake-buil
 
 build cmake_object_order_depends_target_C_programing: phony || CMakeFiles/C_programing.dir
 
-build CMakeFiles/C_programing.dir/Sum_of_two_numbers_with_beep_sound.c.obj: C_COMPILER__C_programing_unscanned_Debug C$:/Users/SHUBHAM/Documents/GitHub/C-programing/Sum$ of$ two$ numbers$ with$ beep$ sound.c || cmake_object_order_depends_target_C_programing
-  DEP_FILE = CMakeFiles\C_programing.dir\Sum_of_two_numbers_with_beep_sound.c.obj.d
+build CMakeFiles/C_programing.dir/check_whether_a_character_is_vowel_or_not.c.obj: C_COMPILER__C_programing_unscanned_Debug C$:/Users/SHUBHAM/Documents/GitHub/C-programing/check$ whether$ a$ character$ is$ vowel$ or$ not.c || cmake_object_order_depends_target_C_programing
+  DEP_FILE = CMakeFiles\C_programing.dir\check_whether_a_character_is_vowel_or_not.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C_programing.dir
   OBJECT_FILE_DIR = CMakeFiles\C_programing.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C_programing.dir/Sum_of_two_numbers_with_beep_sound.c.obj: C_CO
 #############################################
 # Link the executable C_programing.exe
 
-build C_programing.exe: C_EXECUTABLE_LINKER__C_programing_Debug CMakeFiles/C_programing.dir/Sum_of_two_numbers_with_beep_sound.c.obj
+build C_programing.exe: C_EXECUTABLE_LINKER__C_programing_Debug CMakeFiles/C_programing.dir/check_whether_a_character_is_vowel_or_not.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_programing.dir
