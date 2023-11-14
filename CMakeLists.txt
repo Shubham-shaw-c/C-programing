@@ -5,5 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "calculate the area of square and rectangle.c"
+
+        "Check whether water can reach boiing point or not .c"
 )
