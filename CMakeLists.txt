@@ -5,6 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-        "check whether a character is vowel or not.c"
+        "Check whwether a character is upper or lower case.c"
 )
