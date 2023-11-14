@@ -5,6 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-        "Check whether water can reach boiing point or not .c"
+        "check whether a number is positive or negative .c"
 )
