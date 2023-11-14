@@ -1,8 +1,8 @@
 # ninja log v5
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-995	1394	7216415821970303	C_programing.exe	91b3f6ac0d879167
+998	1429	7216424042342870	C_programing.exe	b6afe83b9dd52bcd
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
-4	647	7216419503685883	build.ninja	ca4baf2926535aee
+3	649	7216427369937521	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	977	7207230018487906	CMakeFiles/C_programing.dir/swapping_without_third_varibles.c.obj	9196abc001f3795a
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
@@ -23,15 +23,13 @@
 1	998	7211458686196295	CMakeFiles/C_programing.dir/Currency_converter.c.obj	36a5833be198dd9
 5	1046	7211463425655455	CMakeFiles/C_programing.dir/Heron's_formula_.c.obj	b00365d078500cb4
 5	1040	7212437094267221	CMakeFiles/C_programing.dir/Find_the_compound_intrerest_.c.obj	65672b50a3c4637f
+4	1004	7216419785288558	CMakeFiles/C_programing.dir/Check_whwether_a_character_is_upper_or_lower_case.c.obj	8a2bade3d98e5c86
 4	1008	7213329209799678	CMakeFiles/C_programing.dir/To_print_data_size.c.obj	58856450f85c9a46
 4	997	7213337213503671	CMakeFiles/C_programing.dir/Implement_unary_increment_and_decrement_operator_.c.obj	cc0732e63f3b217e
 1	994	7216415818053184	CMakeFiles/C_programing.dir/To_print_ASCII_value_of_a_character.c.obj	78c2268810cf13
+5	972	7216427095442493	CMakeFiles/C_programing.dir/calculate_the_area_of_square_and_rectangle.c.obj	d3ce65462fb9ac8d
 1	1032	7214905330211423	CMakeFiles/C_programing.dir/Check_a_number_is_Odd_or_Even.c.obj	b56607505dac43b5
 4	980	7214907753220362	CMakeFiles/C_programing.dir/_To_produce_a_beep_sound.c.obj	646a1b2175ce0061
 1	1031	7215564995515633	CMakeFiles/C_programing.dir/Sum_of_two_numbers_with_beep_sound.c.obj	539858bc03f28766
 5	1010	7215573352716700	CMakeFiles/C_programing.dir/check_whether_a_character_is_vowel_or_not.c.obj	b55a00be06eb0421
-2	651	7216419503685883	build.ninja	ca4baf2926535aee
-1	972	7216419514219520	CMakeFiles/C_programing.dir/Check_whwether_a_character_is_upper_or_lower_case.c.obj	8a2bade3d98e5c86
-974	1368	7216419518114904	C_programing.exe	244074b2177d531f
-4	1004	7216419785288558	CMakeFiles/C_programing.dir/Check_whwether_a_character_is_upper_or_lower_case.c.obj	8a2bade3d98e5c86
-1006	1413	7216419789329104	C_programing.exe	244074b2177d531f
+4	429	7216427403235620	C_programing.exe	b6afe83b9dd52bcd

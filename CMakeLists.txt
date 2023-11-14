@@ -5,5 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Check whwether a character is upper or lower case.c"
+        "calculate the area of square and rectangle.c"
 )
