@@ -6,6 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "Find the largest among two numbers.c"
+        "Check whether a year is leap year or not .c"
 
 )
