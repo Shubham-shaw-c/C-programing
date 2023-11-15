@@ -5,5 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "check whether a number is positive or negative .c"
+
+        "Find the largest among two numbers.c"
+
 )
