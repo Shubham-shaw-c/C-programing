@@ -5,6 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Check whether a person a eligible to vote or not .c"
+        "To print grade and input marks from user.c"
 
 )
