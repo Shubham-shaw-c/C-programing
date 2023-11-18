@@ -7,6 +7,7 @@ add_executable(C_programing
 
 
 
-        "To demonstrate the left and right operators.c"
+
+        "To print size of the data type in floating point.c"
 
 )
