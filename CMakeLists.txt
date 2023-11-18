@@ -5,6 +5,8 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "To print grade and input marks from user.c"
+
+
+        "To demonstrate the left and right operators.c"
 
 )
