@@ -6,8 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-
-
-        "To print size of the data type in floating point.c"
+        "Find the greatest number among four numbers.c"
 
 )
