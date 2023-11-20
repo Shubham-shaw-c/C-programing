@@ -6,6 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "Find the smallest number among four numbers.c"
+        "Calculate the average of your subjects .c"
 
 )

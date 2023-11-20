@@ -1,16 +1,17 @@
 #include<stdio.h>
 int main(){
-    int size;
-    char subject;
-    float marks,sum=0;
-    printf("Enter the number of subject\n");
-    scanf("%d",&size);
-    float Marks[size];
-    for(int i=0;size==0;size--){
-        printf("Enter the subject name");
-        scanf("%s",&subject);
-        printf("Enter the marks\n");
-        scanf("%f",&marks);
-        sum=sum+marks;
-    }printf("%f",sum);
+    float m,s,sst,h,e,avg,a;
+    printf("Enter the Maths subject marks =\n");
+    scanf("%f",&m);
+    printf("Enter the Science subject marks=\n");
+    scanf("%f",&s);
+    printf("Enter the Social Science subject marks =\n");
+    scanf("%f",&sst);
+    printf("Enter the Hindi subject marks =\n");
+    scanf("%f",&h);
+    printf("Enter the English subject marks =\n");
+    scanf("%f",&e);
+    a=(m+s+sst+h+e);
+    avg=a/5;
+    printf("Average of all subject marks =%d",(int)avg);
 }
