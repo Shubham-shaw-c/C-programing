@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "Calculate the average of your subjects .c"
+
+        "Calculate the discount.c"
 
 )
