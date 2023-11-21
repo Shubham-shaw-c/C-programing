@@ -6,7 +6,6 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-
-        "Calculate the discount.c"
+        "Check character is vowel or not in switch case.c"
 
 )
