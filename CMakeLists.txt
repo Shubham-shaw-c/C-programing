@@ -5,7 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-        "Check character is vowel or not in switch case.c"
+        "Take any keybord input from the user and determine the data type .c"
 
 )
