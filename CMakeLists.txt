@@ -5,6 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Take any keybord input from the user and determine the data type .c"
+        "Check whether a number is prime or not.c"
 
 )
