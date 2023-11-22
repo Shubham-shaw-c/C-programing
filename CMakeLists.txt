@@ -5,6 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-        "Check whether a number is prime or not.c"
+        "To print the multiplication table of n.c"
 
 )
