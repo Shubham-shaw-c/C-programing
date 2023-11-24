@@ -7,7 +7,7 @@ add_executable(C_programing
 
 
 
-        "To print inverted left half pyramid.c"
+        "To print inverted full pyramid.c"
 
 
 )
