@@ -9,13 +9,13 @@ int main(){
     q= isalpha(a);
     r= ispunct(a);
     s=isspace(a);
-    if(p==1){
+    if(p!=0){
         printf("The character %c entered is a digit",a);
-    }else if(q==1) {
+    }else if(q!=0) {
         printf("The character %c entered is a alphabet",a);
-    }else if(r==1) {
+    }else if(r!=0) {
         printf("The character %c entered is a puntuation character", a);
-    }else if(s==1) {
+    }else if(s!=0) {
         printf("The character %c entered is a space", a);
     }else{
         printf("Wrong choice !");
