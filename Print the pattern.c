@@ -9,11 +9,13 @@ ABCDEF
 
 #include<stdio.h>
 int main(){
-    int i,j;
-    for(i=1;i<=5;i++){
+    int size;
+    printf("Enter the size to print the pattern but size must smaller than 26 \n");
+    scanf("%d",&size);
+    for(int i=1;i<=size;i++){
         printf("\n");
-        for(j=1;j<=i;j++){
-            printf("%c",'A'+1+i);
+        for(int j=1;j<=i;j++){
+            printf("%c",'A'+j-1);
         }
     }
 }
