@@ -8,7 +8,10 @@ EEEEE
 
 #include<stdio.h>
 int main() {
-    for (int i = 0; i <=5; i++) {
+    int size;
+    printf("Enter the size to print the pattern\n");
+    scanf("%d",&size);
+    for (int i = 0; i <=size; i++) {
         for (int j = 0; j < i; j++) {
             printf("%c", 'A' - 1 + i);
         }
