@@ -4,7 +4,8 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
-        "Print the pattern.c"
+
+        "To print square pattern.c"
 
 
 )
