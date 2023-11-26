@@ -1,14 +1,16 @@
 #include <stdio.h>
+
 int main(){
     int row;
     printf("Enter the row");
     scanf("%d",&row);
-    for (int i = 0; i < row; i++){
-        for (int j = 0; j < row; j++){
-            if (i > 0 && i < row - 1 && j > 0&& j < row - 1){
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < row; j++) {
+            if (i > 0 && i < row - 1 && j > 0
+                && j < row - 1) {
                 printf("  ");
             }
-            else{
+            else {
                 printf("* ");
             }
         }

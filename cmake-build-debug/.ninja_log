@@ -1,8 +1,8 @@
 # ninja log v5
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
-970	1369	7225955498871122	C_programing.exe	75be5b61d3bf568d
+4	421	7227227967449189	C_programing.exe	d2f0f38041ba639d
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
-4	687	7227219261009741	build.ninja	ca4baf2926535aee
+3	712	7227228157743039	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 1	981	7224526632752068	CMakeFiles/C_programing.dir/To_print_the_multiplication_table_of_n.c.obj	302dabc935781dbd
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
@@ -23,6 +23,8 @@
 4	1010	7209315035547448	CMakeFiles/C_programing.dir/Find_area_of_circle_.c.obj	f894e226467668c4
 3	1046	7215987583917234	CMakeFiles/C_programing.dir/testing.c.obj	4dcce6ebaee36e9f
 0	1000	7210690902220034	CMakeFiles/C_programing.dir/Storage_converter.c.obj	3b510da4670816bc
+4	991	7227226049014053	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
+4	1026	7227227903025931	CMakeFiles/C_programing.dir/To_print__left_pryamid.c.obj	a4185ae93ffa0cf
 1	998	7211458686196295	CMakeFiles/C_programing.dir/Currency_converter.c.obj	36a5833be198dd9
 5	1046	7211463425655455	CMakeFiles/C_programing.dir/Heron's_formula_.c.obj	b00365d078500cb4
 4	1004	7216419785288558	CMakeFiles/C_programing.dir/Check_whwether_a_character_is_upper_or_lower_case.c.obj	8a2bade3d98e5c86
@@ -53,16 +55,6 @@
 5	969	7225955494939056	CMakeFiles/C_programing.dir/Print_the_pattern.c.obj	857d6aff4a22a479
 1	1055	7224530715611978	CMakeFiles/C_programing.dir/Take_any_keybord_input_from_the_user_and_determine_the_data_type_.c.obj	6811ec4ec8614999
 4	980	7224523161173697	CMakeFiles/C_programing.dir/To_print_fibonacci_series_in_pattern.c.obj	e2b2c87c0ad4bff5
-3	669	7227219261009741	build.ninja	ca4baf2926535aee
-1	1032	7227219901526916	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-1033	1449	7227219905628460	C_programing.exe	8a4e10480b078da9
-4	974	7227220048493435	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-976	1372	7227220052392299	C_programing.exe	8a4e10480b078da9
-4	992	7227220216612808	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-993	1388	7227220220513181	C_programing.exe	8a4e10480b078da9
-5	986	7227220348309366	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-988	1392	7227220352324563	C_programing.exe	8a4e10480b078da9
-4	975	7227222276762167	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-977	1400	7227222280921308	C_programing.exe	8a4e10480b078da9
-4	969	7227222758693199	CMakeFiles/C_programing.dir/To_print_square_pattern.c.obj	5c8f6b9684b2df1e
-970	1391	7227222762826438	C_programing.exe	8a4e10480b078da9
+2	678	7227228157743039	build.ninja	ca4baf2926535aee
+5	993	7227228168452887	CMakeFiles/C_programing.dir/To_print__left_pryamid.c.obj	a4185ae93ffa0cf
+994	1395	7227228172397148	C_programing.exe	d2f0f38041ba639d
