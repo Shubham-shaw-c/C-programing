@@ -6,7 +6,8 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "To print  left pyramid.c"
+
+        "To print inverted right half pyramid.c"
 
 
 )
