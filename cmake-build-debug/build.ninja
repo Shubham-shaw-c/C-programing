@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/SHUBHAM/Documents/GitHub/C-programing/cmake-buil
 
 build cmake_object_order_depends_target_C_programing: phony || CMakeFiles/C_programing.dir
 
-build CMakeFiles/C_programing.dir/To_print_inverted_right_half_pyramid.c.obj: C_COMPILER__C_programing_unscanned_Debug C$:/Users/SHUBHAM/Documents/GitHub/C-programing/To$ print$ inverted$ right$ half$ pyramid.c || cmake_object_order_depends_target_C_programing
-  DEP_FILE = CMakeFiles\C_programing.dir\To_print_inverted_right_half_pyramid.c.obj.d
+build CMakeFiles/C_programing.dir/To_print_inverted_left_half_pyramid.c.obj: C_COMPILER__C_programing_unscanned_Debug C$:/Users/SHUBHAM/Documents/GitHub/C-programing/To$ print$ inverted$ left$ half$ pyramid.c || cmake_object_order_depends_target_C_programing
+  DEP_FILE = CMakeFiles\C_programing.dir\To_print_inverted_left_half_pyramid.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C_programing.dir
   OBJECT_FILE_DIR = CMakeFiles\C_programing.dir
@@ -63,7 +63,7 @@ build CMakeFiles/C_programing.dir/To_print_inverted_right_half_pyramid.c.obj: C_
 #############################################
 # Link the executable C_programing.exe
 
-build C_programing.exe: C_EXECUTABLE_LINKER__C_programing_Debug CMakeFiles/C_programing.dir/To_print_inverted_right_half_pyramid.c.obj
+build C_programing.exe: C_EXECUTABLE_LINKER__C_programing_Debug CMakeFiles/C_programing.dir/To_print_inverted_left_half_pyramid.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_programing.dir
