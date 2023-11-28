@@ -6,7 +6,8 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "To count the digit in a number .c"
+
+        "check whether the number is amicable number or not ..c"
 
 
 )
