@@ -6,8 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-
-        "To print inverted full pyramid.c"
+        "To count the digit in a number .c"
 
 
 )
