@@ -7,7 +7,7 @@ add_executable(C_programing
 
 
 
-        "Check whether a number is palindrome or not.c"
+        "Find the two number of HCF.c"
 
 
 )
