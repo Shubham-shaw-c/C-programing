@@ -7,7 +7,7 @@ add_executable(C_programing
 
 
 
-        "check whether the number is amicable number or not ..c"
+        "Check whether a number is palindrome or not.c"
 
 
 )
