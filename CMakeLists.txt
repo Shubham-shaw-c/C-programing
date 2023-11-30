@@ -7,7 +7,8 @@ add_executable(C_programing
 
 
 
-        "Find the two number of HCF.c"
+
+        "Convert decimal number into binary number  .c"
 
 
 )
