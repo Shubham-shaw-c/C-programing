@@ -8,7 +8,7 @@ add_executable(C_programing
 
 
 
-        "Convert decimal number into binary number  .c"
+        "To check a number is armstrong number or not .c"
 
 
 )
