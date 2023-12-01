@@ -8,7 +8,7 @@ add_executable(C_programing
 
 
 
-        "To check a number is armstrong number or not .c"
+        "To check whether a number is friendly or not .c"
 
 
 )
