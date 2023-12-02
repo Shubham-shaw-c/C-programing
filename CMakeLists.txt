@@ -7,8 +7,7 @@ add_executable(C_programing
 
 
 
-
-        "To check whether a number is happy number or not.c"
+        "To check whether a number is unique number or not .c"
 
 
 )

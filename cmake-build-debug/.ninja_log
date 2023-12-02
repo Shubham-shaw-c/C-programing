@@ -2,9 +2,10 @@
 1	1002	7228112858836264	CMakeFiles/C_programing.dir/To_print_inverted_full_pyramid.c.obj	ac067b444fae7584
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
 4	1020	7228964504019897	CMakeFiles/C_programing.dir/To_count_the_digit_in_a_number_.c.obj	10c8a09d45afd911
-1148	1653	7231058519007963	C_programing.exe	5ae1fb035ff92c64
+1065	1642	7231945453695758	C_programing.exe	e47f094100c20f0
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
-3	771	7231062812997053	build.ninja	ca4baf2926535aee
+1	1123	7231062825434148	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_happy_number_or_not.c.obj	43748b4b3bc5fac3
+2	765	7231948454011100	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
@@ -65,6 +66,7 @@
 1	1010	7229788426872471	CMakeFiles/C_programing.dir/Find_the_two_number_of_HCF.c.obj	370d3e8ebf334d7f
 1	474	7230676814115045	CMakeFiles/C_programing.dir/To_check_a_number_is_armstrong_number_or_not_.c.obj	9e90d3fee3e5a27
 1	1147	7231058514007061	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_friendly_or_not_.c.obj	19a7a9d8a398cc8
-2	777	7231062812997053	build.ninja	ca4baf2926535aee
-1	1123	7231062825434148	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_happy_number_or_not.c.obj	43748b4b3bc5fac3
-1124	1630	7231062830432747	C_programing.exe	3b94348bc07687b4
+1	1064	7231945447983838	CMakeFiles/C_programing.dir/To_calculate_the_logarithm_value_of_a_numerical.c.obj	8dc0964b1b08baf2
+6	1145	7231948393462232	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_unique_number_or_not_.c.obj	9bccedc2658fa8b2
+2	773	7231948454011100	build.ninja	ca4baf2926535aee
+4	531	7231948460234900	C_programing.exe	49031c6e11ce04e1
