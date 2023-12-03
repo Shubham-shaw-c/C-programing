@@ -6,9 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-
-
-        "To check whether a nuber is unique number or not .c"
+        "To find the sum of n numbers using recurssion..c"
 
 
 )

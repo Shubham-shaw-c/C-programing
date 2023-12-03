@@ -2,10 +2,10 @@
 1	1002	7228112858836264	CMakeFiles/C_programing.dir/To_print_inverted_full_pyramid.c.obj	ac067b444fae7584
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
 4	1020	7228964504019897	CMakeFiles/C_programing.dir/To_count_the_digit_in_a_number_.c.obj	10c8a09d45afd911
-1040	1521	7231951456353539	C_programing.exe	861cd1752f607156
+4	530	7233107811635506	C_programing.exe	49031c6e11ce04e1
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
 1	1123	7231062825434148	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_happy_number_or_not.c.obj	43748b4b3bc5fac3
-2	769	7231951545628144	build.ninja	ca4baf2926535aee
+2	774	7233109843018309	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
@@ -69,4 +69,6 @@
 1	1064	7231945447983838	CMakeFiles/C_programing.dir/To_calculate_the_logarithm_value_of_a_numerical.c.obj	8dc0964b1b08baf2
 4	1106	7231950239158432	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_unique_number_or_not_.c.obj	9bccedc2658fa8b2
 1	1038	7231951451597150	CMakeFiles/C_programing.dir/To_check_whether_a_nuber_is_unique_number_or_not_.c.obj	2fb18670d4ad6f20
-2	813	7231951545628144	build.ninja	ca4baf2926535aee
+2	817	7233109843018309	build.ninja	ca4baf2926535aee
+1	1113	7233109855209222	CMakeFiles/C_programing.dir/To_find_the_sum_of_n_numbers_using_recurssion..c.obj	296dc5562a6378f3
+1115	1619	7233109860231651	C_programing.exe	54e72d574acdf6db
