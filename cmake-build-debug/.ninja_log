@@ -5,7 +5,7 @@
 1053	1555	7233112421495119	C_programing.exe	7c36173071e3e944
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
 1	1123	7231062825434148	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_happy_number_or_not.c.obj	43748b4b3bc5fac3
-2	792	7233112510957191	build.ninja	ca4baf2926535aee
+2	789	7234052168906384	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
@@ -71,4 +71,7 @@
 1	1038	7231951451597150	CMakeFiles/C_programing.dir/To_check_whether_a_nuber_is_unique_number_or_not_.c.obj	2fb18670d4ad6f20
 1	1113	7233109855209222	CMakeFiles/C_programing.dir/To_find_the_sum_of_n_numbers_using_recurssion..c.obj	296dc5562a6378f3
 1	1052	7233112416535215	CMakeFiles/C_programing.dir/To_find_the_area_of_circle_using_recursive_function_by_taking_radius_as_user_input._If_r=0,_the_program_should_stop.c.obj	f06f8de82af7363
-2	789	7233112510957191	build.ninja	ca4baf2926535aee
+1	337	7234052559841356	CMakeFiles/C_programing.dir/To_demonstrate_tree_recursion..c.obj	887d6f61ff93ce20
+338	732	7234052563747272	C_programing.exe	422a3c5053fd069f
+5	235	7234053046740434	CMakeFiles/C_programing.dir/To_demonstrate_tree_recursion..c.obj	887d6f61ff93ce20
+236	538	7234053049714735	C_programing.exe	422a3c5053fd069f
