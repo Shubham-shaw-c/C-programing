@@ -4,7 +4,9 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
-        "To demonstrate tree recursion..c"
+
+
+        "To create 1 dimensional array.c"
 
 
 )
