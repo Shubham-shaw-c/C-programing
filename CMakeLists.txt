@@ -6,7 +6,8 @@ set(CMAKE_C_STANDARD 11)
 add_executable(C_programing
 
 
-        "To create 1 dimensional array.c"
+
+        "To create a 2 dimensional array.c"
 
 
 )
