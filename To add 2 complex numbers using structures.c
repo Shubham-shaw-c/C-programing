@@ -15,4 +15,5 @@ int main(){
     c3.real=c1.real+c2.real;
     c3.imaginary=c1.imaginary+c2.imaginary;
     printf("The Complex Number is: %d+%di",c3.real,c3.imaginary);
+    return 0;
 }

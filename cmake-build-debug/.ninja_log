@@ -2,10 +2,10 @@
 1	1002	7228112858836264	CMakeFiles/C_programing.dir/To_print_inverted_full_pyramid.c.obj	ac067b444fae7584
 4	1018	7206268868251391	CMakeFiles/C_programing.dir/swapping.c.obj	981b855b1c948c77
 4	1020	7228964504019897	CMakeFiles/C_programing.dir/To_count_the_digit_in_a_number_.c.obj	10c8a09d45afd911
-80	190	7252991409868159	C_programing.exe	81349960cf86a31f
+85	188	7235740649695740	C_programing.exe	84dbe68c8596a731
 5	1003	7212432633055532	CMakeFiles/C_programing.dir/Distance_between_two_points.c.obj	55f6361ac11ad6c5
 1	1123	7231062825434148	CMakeFiles/C_programing.dir/To_check_whether_a_number_is_happy_number_or_not.c.obj	43748b4b3bc5fac3
-1	122	7252991734787585	build.ninja	ca4baf2926535aee
+1	129	7235741745267063	build.ninja	ca4baf2926535aee
 3	957	7206415503175403	CMakeFiles/C_programing.dir/sum_of_N_numbers_using_head_recursion.c.obj	cb681d41622ab04e
 4	987	7208680472628450	CMakeFiles/C_programing.dir/Convert_Centigrade_to_Fahrenheit.c.obj	bbe941f54a5a671f
 4	984	7206414437476312	CMakeFiles/C_programing.dir/Head_recursion.c.obj	7daf0a33925b16ae
@@ -77,10 +77,9 @@
 1	206	7234920447239850	CMakeFiles/C_programing.dir/To_create_a_2_dimensional_array.c.obj	a680c72e27a15be3
 1	186	7234922519557007	CMakeFiles/C_programing.dir/To_display_the_element_from_an_array_by_taking_the_index_position_from_the_user.c.obj	6946d4f13d206e4c
 0	171	7252978024229141	CMakeFiles/C_programing.dir/to_add_2-D_array_and_display_it.c.obj	d1dfa2b33b922fd8
-1	78	7252980387863332	CMakeFiles/C_programing.dir/to_multiply_two_2-D_array.c.obj	9f28e701a401cdd5
+2	82	7235723027031299	CMakeFiles/C_programing.dir/to_multiply_two_2-D_array.c.obj	9f28e701a401cdd5
 0	75	7252981238705631	CMakeFiles/C_programing.dir/To_manually_calculate_the_length_of_a_string.c.obj	659cfe207ee50c8a
-1	79	7252982079498273	CMakeFiles/C_programing.dir/To_concantinate_four_stings_together_using_string_function.c.obj	e38c19e85017bd19
+3	84	7235740648679003	CMakeFiles/C_programing.dir/To_concantinate_four_stings_together_using_string_function.c.obj	e38c19e85017bd19
 2	85	7252984958757277	CMakeFiles/C_programing.dir/To_implement_all_string_functions.c.obj	627aa7bd999bf56f
 2	81	7252990177074231	CMakeFiles/C_programing.dir/To_add_2_complex_numbers_using_structures.c.obj	1ecd35bddb22631f
 1	80	7252991408795837	CMakeFiles/C_programing.dir/To_demonstrate_array_of_structures.c.obj	a7801e6969305746
-1	120	7252991734787585	build.ninja	ca4baf2926535aee
