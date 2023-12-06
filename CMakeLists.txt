@@ -5,10 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
 
-
-        "To concantinate four stings together using string function.c"
-        "To concantinate four stings together using string function.c"
-        "To concantinate four stings together using string function.c"
-
+        "to demonstrate array of structures.c"
 
 )
