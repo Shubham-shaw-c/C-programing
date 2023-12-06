@@ -7,7 +7,10 @@ add_executable(C_programing
 
 
 
-        "To display the element from an array by taking the index position from the user.c"
+
+
+
+        "To demonstrate array of structures.c"
 
 
 )
