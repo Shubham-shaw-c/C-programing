@@ -9,4 +9,5 @@ int main()
     strcat(str3,str4);
     strcat(str1,str3);
     printf("%s",str1);
+    return 0;
 }
