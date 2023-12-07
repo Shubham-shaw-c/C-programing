@@ -4,7 +4,8 @@ project(C_programing C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_programing
+        "Smart Reliance fresh.c"
+        repeating.c
 
-     "To concantinate four stings together using string function.c"
 
 )
