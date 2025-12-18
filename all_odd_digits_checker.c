@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int hasOnlyOddDigits(int n) {
+    while (n > 0) {
+        if ((n % 10) % 2 == 0) {
+            return 0;
+        }
+        n /= 10;
+    }
+    return 1;
+}
+
+int main() {
+    int tests[] = {7, 12, 28, 45, 64, 89, 121, 153, 370, 496};
+    int i;
+    for (i = 0; i < 10; i++) {
+        printf("%d -> %s\n", tests[i], hasOnlyOddDigits(tests[i]) ? "yes" : "no");
+    }
+    return 0;
+}
